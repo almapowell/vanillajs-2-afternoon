@@ -191,7 +191,7 @@ function draw(){
     });
 
     container.appendChild(ball);
-  }, 50);
+  }, 1000);
 }
 ```
 
